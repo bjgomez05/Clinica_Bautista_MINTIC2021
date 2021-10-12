@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Clinica Bautista</title>
+
+</head>
+<header>
+    <div id="header">
+    </div>
+</header>
+<body>
+    <h1>Aquí va el body</h1>
+
+    <form action="/login_paciente" method="POST">
+        {{ csrf_tokem }}
+
+        <input type="submit" name="" value="Login paciente">
+    </form>
+    
+    <br>
+
+    <form action="/login_medico" method="POST">
+        {{ csrf_tokem }}
+
+        <input type="submit" name="" value="Login médico">
+    </form>
+
+    <br>
+
+    <form action="/login_super" method="POST">
+        {{ csrf_tokem }}
+
+        <input type="submit" name="" value="Login superadministrador">
+    </form>
+
+    <br>
+    <br>
+
+    <form action="/registro_paciente" method="POST">
+        {{ csrf_tokem }}
+
+        <input type="submit" name="" value="Registro paciente">
+    </form>
+    
+    <br>
+
+    <form action="/registro_medico" method="POST">
+        {{ csrf_tokem }}
+
+        <input type="submit" name="" value="Registro médico">
+    </form>
+
+
+</body>
+</html>
