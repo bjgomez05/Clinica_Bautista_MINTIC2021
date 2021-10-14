@@ -1,0 +1,166 @@
+.u-section-1 {
+  background-image: url("/static/img/login/login_medico/pexelsphoto355934.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 883px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 125px 661px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 35px 661px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.125rem;
+  margin: 149px 801px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 141px;
+  height: 141px;
+  object-position: 0% 0%;
+  margin: 18px auto 0 18px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 185px;
+  margin: -141px 481px 0 177px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: normal;
+}
+
+.u-section-1 .u-text-4 {
+  margin: -26px 997px 60px 35px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 728px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 461px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 461px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 601px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 381px;
+    margin-left: 77px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 832px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 558px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 241px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 241px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 381px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 238px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 612px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    background-position: 0% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 419px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 61px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 61px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 201px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 58px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 432px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    background-position: 1.07% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 264px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 1px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 232px;
+  }
+}

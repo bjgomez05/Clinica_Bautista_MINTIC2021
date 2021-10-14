@@ -1,0 +1,131 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 956px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 127px 661px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 141px;
+  height: 141px;
+  object-position: 0% 0%;
+  background-image: url("/static/img/registro/registro_medico/medicoanimado.jpg");
+  background-position: 0% 50%;
+  margin: -141px auto 0 400px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 510px;
+  margin: 35px 466px 60px 40px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-9 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-10 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-11 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-12 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-13 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 461px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 306px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    letter-spacing: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 241px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 86px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 61px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 399px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 199px;
+  }
+}
